@@ -1,2 +1,4 @@
-# numberOfOccurrences
-Input a number, then a digit, then it returns the number of times the digit occurs
+# Example output  
+Enter the full integer: 68844689769966438  
+Enter the number to find the frequency of: 8  
+8 appears in 68844689769966438 ---> 4 times
